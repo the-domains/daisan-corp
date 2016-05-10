@@ -1,7 +1,8 @@
 name: daisan-corp
 favicon: null
 layout_spectrum: 0.8002613098360598
-typography_spectrum: 0.4700343646109104
+typography_spectrum: 0.4207
+title: HOME
 cta:
   domain: null
   bucket: null
@@ -21,7 +22,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.8924040896818042
+  brandStrength: 0.625
   lightness: 0.01150911464355886
   saturation: 0.6829637638293207
   rhythmicContrast: 0.643606737954542
