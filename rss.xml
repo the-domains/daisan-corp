@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[HOME]]></title>
         <description><![CDATA[HOME]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/daisan-corp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 09:46:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 10 May 2016 09:48:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/daisan-corp/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Welcome To Daisan Capital Corporation </p>]]></description>
-            <link>undefinedwelcome-to-daisan-capital-corporation/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0928830-f6b3-4d7a-813b-faba2a8c8337.png">]]></description>
+            <link>https://thegrid.ai/daisan-corp/welcome-to-daisan-capital-corporation/index.html</link>
             <guid isPermaLink="false">dc9b30d7-cde4-4167-9f06-6f5e8e32f729</guid>
-            <pubDate>Tue, 10 May 2016 09:46:32 GMT</pubDate>
+            <pubDate>Tue, 10 May 2016 09:48:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
