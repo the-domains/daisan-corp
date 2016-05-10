@@ -1,0 +1,29 @@
+name: daisan-corp
+favicon: null
+layout_spectrum: 0.8002613098360598
+typography_spectrum: 0.4700343646109104
+title: HOME
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8924040896818042
+  lightness: 0.01150911464355886
+  saturation: 0.6829637638293207
+  rhythmicContrast: 0.643606737954542
+purpose: []
