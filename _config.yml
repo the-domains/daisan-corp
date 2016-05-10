@@ -2,7 +2,6 @@ name: daisan-corp
 favicon: null
 layout_spectrum: 0.8002613098360598
 typography_spectrum: 0.4700343646109104
-title: HOME
 cta:
   domain: null
   bucket: null
